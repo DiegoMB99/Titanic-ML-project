@@ -1,0 +1,21 @@
+# Entorno virtual
+.venv/
+
+# Python caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data files y modelos
+*.csv
+*.xlsx
+*.joblib
+*.pkl
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
